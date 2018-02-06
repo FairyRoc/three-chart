@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "echarts": "^4.0.2",
+    "exponential-smoothing-stream": "^3.0.0",
     "holtwinters": "0.0.1",
     "papaparse": "^4.3.6",
     "react": "^16.2.0",
